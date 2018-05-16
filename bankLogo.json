@@ -1,0 +1,258 @@
+[
+  {
+    "code": "100",
+    "name": "邮储银行",
+    "spell": "ycyh"
+  },{
+    "code": "102",
+    "name": "工商银行",
+    "spell": "gsyh"
+  },{
+    "code": "103",
+    "name": "农业银行",
+    "spell": "nyyh"
+  },{
+    "code": "104",
+    "name": "中国银行",
+    "spell": "zgyh"
+  },{
+    "code": "105",
+    "name": "建设银行",
+    "spell": "jsyh"
+  },
+
+  {
+    "code": "201",
+    "name": "国家开发银行",
+    "spell": "gjkfyh"
+  },
+
+  {
+    "code": "301",
+    "name": "交通银行",
+    "spell": "jtyh"
+  },{
+    "code": "302",
+    "name": "中信银行",
+    "spell": "zxyh"
+  },{
+    "code": "303",
+    "name": "光大银行",
+    "spell": "gdyh"
+  },{
+    "code": "304",
+    "name": "华夏银行",
+    "spell": "hxyh"
+  },{
+    "code": "305",
+    "name": "民生银行",
+    "spell": "msyh"
+  },{
+    "code": "306",
+    "name": "广发银行",
+    "spell": "ycyh"
+  },{
+    "code": "307",
+    "name": "平安银行",
+    "spell": "payh"
+  },{
+    "code": "308",
+    "name": "招商银行",
+    "spell": "zsyh"
+  },{
+    "code": "309",
+    "name": "兴业银行",
+    "spell": "xyyh"
+  },{
+    "code": "310",
+    "name": "浦发银行",
+    "spell": "pfyh"
+  },{
+    "code": "311",
+    "name": "恒丰银行",
+    "spell": "hfyh"
+  },{
+    "code": "313",
+    "name": "华融湘江银行",
+    "spell": "hrxjyh"
+  },{
+    "code": "316",
+    "name": "浙商银行",
+    "spell": "zhesyh"
+  },{
+    "code": "317",
+    "name": "渤海银行",
+    "spell": "bhyh"
+  },{
+    "code": "321",
+    "name": "重庆三峡银行",
+    "spell": "cqsxyh"
+  },
+
+  {
+    "code": "401",
+    "name": "上海银行",
+    "spell": "shyh"
+  },{
+    "code": "402",
+    "name": "厦门银行",
+    "spell": "xmyh"
+  },{
+    "code": "403",
+    "name": "北京银行",
+    "spell": "bjyh"
+  },{
+    "code": "404",
+    "name": "烟台银行",
+    "spell": "ytyh"
+  },{
+    "code": "405",
+    "name": "福建海峡银行",
+    "spell": "fjhxyh"
+  },{
+    "code": "408",
+    "name": "宁波银行",
+    "spell": "nbyh"
+  },{
+    "code": "409",
+    "name": "齐鲁银行",
+    "spell": "qlyh"
+  },
+
+  {
+    "code": "411",
+    "name": "焦作市商业银行（焦作中旅银行）",
+    "spell": "jzzlyh"
+  },{
+    "code": "412",
+    "name": "温州银行",
+    "spell": "wzyh"
+  },{
+    "code": "413",
+    "name": "广州银行",
+    "spell": "gzyh"
+  },{
+    "code": "414",
+    "name": "汉口银行",
+    "spell": "hkyh"
+  },{
+    "code": "415",
+    "name": "甘肃银行",
+    "spell": "gansyh"
+  },{
+    "code": "417",
+    "name": "盛京银行",
+    "spell": "sjyh"
+  },{
+    "code": "418",
+    "name": "洛阳银行",
+    "spell": "lyyh"
+  },{
+    "code": "419",
+    "name": "辽阳银行",
+    "spell": "liaoyyh"
+  },
+
+  {
+    "code": "420",
+    "name": "大连银行",
+    "spell": "dlyh"
+  },{
+    "code": "421",
+    "name": "苏州银行",
+    "spell": "szyh"
+  },{
+    "code": "422",
+    "name": "河北银行",
+    "spell": "hebyh"
+  },{
+    "code": "423",
+    "name": "杭州银行",
+    "spell": "hzyh"
+  },{
+    "code": "424",
+    "name": "南京银行",
+    "spell": "njyh"
+  },{
+    "code": "425",
+    "name": "东莞银行",
+    "spell": "dgyh"
+  },{
+    "code": "426",
+    "name": "金华银行",
+    "spell": "jhyh"
+  },{
+    "code": "427",
+    "name": "乌鲁木齐市商业银行",
+    "spell": "wlmqyh"
+  },{
+    "code": "428",
+    "name": "绍兴银行",
+    "spell": "sxyh"
+  },{
+    "code": "429",
+    "name": "成都银行",
+    "spell": "cdyh"
+  },
+
+  {
+    "code": "430",
+    "name": "抚顺银行",
+    "spell": "fsyh"
+  },{
+    "code": "431",
+    "name": "临商银行",
+    "spell": "lsyh"
+  },{
+    "code": "432",
+    "name": "湖北银行",
+    "spell": "hubyh"
+  },{
+    "code": "433",
+    "name": "葫芦岛银行",
+    "spell": "hldyh"
+  },{
+    "code": "434",
+    "name": "天津银行",
+    "spell": "tjyh"
+  },{
+    "code": "435",
+    "name": "郑州银行",
+    "spell": "zzyh"
+  },{
+    "code": "436",
+    "name": "宁夏银行",
+    "spell": "nxyh"
+  },{
+    "code": "437",
+    "name": "珠海华润银行",
+    "spell": "zhhryh"
+  },{
+    "code": "438",
+    "name": "齐商银行",
+    "spell": "qsyh"
+  },{
+    "code": "439",
+    "name": "锦州银行",
+    "spell": "jzyh"
+  },
+
+  {
+    "code": "440",
+    "name": "徽商银行",
+    "spell": "hsyh"
+  },{
+    "code": "441",
+    "name": "重庆银行",
+    "spell": "cqyh"
+  },{
+    "code": "442",
+    "name": "哈尔滨银行",
+    "spell": "heerbyh"
+  },{
+    "code": "443",
+    "name": "贵阳银行",
+    "spell": "gyyh"
+  },
+
+]
