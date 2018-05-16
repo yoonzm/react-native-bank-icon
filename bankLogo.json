@@ -3,256 +3,505 @@
     "code": "100",
     "name": "邮储银行",
     "spell": "ycyh"
-  },{
+  },
+  {
     "code": "102",
     "name": "工商银行",
     "spell": "gsyh"
-  },{
+  },
+  {
     "code": "103",
     "name": "农业银行",
     "spell": "nyyh"
-  },{
+  },
+  {
     "code": "104",
     "name": "中国银行",
     "spell": "zgyh"
-  },{
+  },
+  {
     "code": "105",
     "name": "建设银行",
     "spell": "jsyh"
   },
-
   {
     "code": "201",
     "name": "国家开发银行",
     "spell": "gjkfyh"
   },
-
   {
     "code": "301",
     "name": "交通银行",
     "spell": "jtyh"
-  },{
+  },
+  {
     "code": "302",
     "name": "中信银行",
     "spell": "zxyh"
-  },{
+  },
+  {
     "code": "303",
     "name": "光大银行",
     "spell": "gdyh"
-  },{
+  },
+  {
     "code": "304",
     "name": "华夏银行",
     "spell": "hxyh"
-  },{
+  },
+  {
     "code": "305",
     "name": "民生银行",
     "spell": "msyh"
-  },{
+  },
+  {
     "code": "306",
     "name": "广发银行",
-    "spell": "ycyh"
-  },{
+    "spell": "gfyh"
+  },
+  {
     "code": "307",
     "name": "平安银行",
     "spell": "payh"
-  },{
+  },
+  {
     "code": "308",
     "name": "招商银行",
     "spell": "zsyh"
-  },{
+  },
+  {
     "code": "309",
     "name": "兴业银行",
     "spell": "xyyh"
-  },{
+  },
+  {
     "code": "310",
     "name": "浦发银行",
     "spell": "pfyh"
-  },{
+  },
+  {
     "code": "311",
     "name": "恒丰银行",
     "spell": "hfyh"
-  },{
+  },
+  {
     "code": "313",
     "name": "华融湘江银行",
     "spell": "hrxjyh"
-  },{
+  },
+  {
     "code": "316",
     "name": "浙商银行",
     "spell": "zhesyh"
-  },{
+  },
+  {
     "code": "317",
     "name": "渤海银行",
     "spell": "bhyh"
-  },{
+  },
+  {
     "code": "321",
     "name": "重庆三峡银行",
     "spell": "cqsxyh"
   },
-
   {
     "code": "401",
     "name": "上海银行",
     "spell": "shyh"
-  },{
+  },
+  {
     "code": "402",
     "name": "厦门银行",
     "spell": "xmyh"
-  },{
+  },
+  {
     "code": "403",
     "name": "北京银行",
     "spell": "bjyh"
-  },{
+  },
+  {
     "code": "404",
     "name": "烟台银行",
     "spell": "ytyh"
-  },{
+  },
+  {
     "code": "405",
     "name": "福建海峡银行",
     "spell": "fjhxyh"
-  },{
+  },
+  {
     "code": "408",
     "name": "宁波银行",
     "spell": "nbyh"
-  },{
+  },
+  {
     "code": "409",
     "name": "齐鲁银行",
     "spell": "qlyh"
   },
-
   {
     "code": "411",
     "name": "焦作市商业银行（焦作中旅银行）",
     "spell": "jzzlyh"
-  },{
+  },
+  {
     "code": "412",
     "name": "温州银行",
     "spell": "wzyh"
-  },{
+  },
+  {
     "code": "413",
     "name": "广州银行",
     "spell": "gzyh"
-  },{
+  },
+  {
     "code": "414",
     "name": "汉口银行",
     "spell": "hkyh"
-  },{
+  },
+  {
     "code": "415",
     "name": "甘肃银行",
     "spell": "gansyh"
-  },{
+  },
+  {
     "code": "417",
     "name": "盛京银行",
     "spell": "sjyh"
-  },{
+  },
+  {
     "code": "418",
     "name": "洛阳银行",
     "spell": "lyyh"
-  },{
+  },
+  {
     "code": "419",
     "name": "辽阳银行",
     "spell": "liaoyyh"
   },
-
   {
     "code": "420",
     "name": "大连银行",
     "spell": "dlyh"
-  },{
+  },
+  {
     "code": "421",
     "name": "苏州银行",
     "spell": "szyh"
-  },{
+  },
+  {
     "code": "422",
     "name": "河北银行",
     "spell": "hebyh"
-  },{
+  },
+  {
     "code": "423",
     "name": "杭州银行",
     "spell": "hzyh"
-  },{
+  },
+  {
     "code": "424",
     "name": "南京银行",
     "spell": "njyh"
-  },{
+  },
+  {
     "code": "425",
     "name": "东莞银行",
     "spell": "dgyh"
-  },{
+  },
+  {
     "code": "426",
     "name": "金华银行",
     "spell": "jhyh"
-  },{
+  },
+  {
     "code": "427",
     "name": "乌鲁木齐市商业银行",
     "spell": "wlmqyh"
-  },{
+  },
+  {
     "code": "428",
     "name": "绍兴银行",
     "spell": "sxyh"
-  },{
+  },
+  {
     "code": "429",
     "name": "成都银行",
     "spell": "cdyh"
   },
-
   {
     "code": "430",
     "name": "抚顺银行",
     "spell": "fsyh"
-  },{
+  },
+  {
     "code": "431",
     "name": "临商银行",
     "spell": "lsyh"
-  },{
+  },
+  {
     "code": "432",
     "name": "湖北银行",
     "spell": "hubyh"
-  },{
+  },
+  {
     "code": "433",
     "name": "葫芦岛银行",
     "spell": "hldyh"
-  },{
+  },
+  {
     "code": "434",
     "name": "天津银行",
     "spell": "tjyh"
-  },{
+  },
+  {
     "code": "435",
     "name": "郑州银行",
     "spell": "zzyh"
-  },{
+  },
+  {
     "code": "436",
     "name": "宁夏银行",
     "spell": "nxyh"
-  },{
+  },
+  {
     "code": "437",
     "name": "珠海华润银行",
     "spell": "zhhryh"
-  },{
+  },
+  {
     "code": "438",
     "name": "齐商银行",
     "spell": "qsyh"
-  },{
+  },
+  {
     "code": "439",
     "name": "锦州银行",
     "spell": "jzyh"
   },
-
   {
     "code": "440",
     "name": "徽商银行",
     "spell": "hsyh"
-  },{
+  },
+  {
     "code": "441",
     "name": "重庆银行",
     "spell": "cqyh"
-  },{
+  },
+  {
     "code": "442",
     "name": "哈尔滨银行",
     "spell": "heerbyh"
-  },{
+  },
+  {
     "code": "443",
     "name": "贵阳银行",
     "spell": "gyyh"
   },
-
+  {
+    "code": "444",
+    "name": "西安银行",
+    "spell": "xianyh"
+  },
+  {
+    "code": "446",
+    "name": "丹东银行",
+    "spell": "ddyh"
+  },
+  {
+    "code": "447",
+    "name": "兰州银行",
+    "spell": "lzyh"
+  },
+  {
+    "code": "448",
+    "name": "南昌银行（江西银行）",
+    "spell": "jxyh"
+  },
+  {
+    "code": "449",
+    "name": "晋商银行",
+    "spell": "jinsyh"
+  },
+  {
+    "code": "450",
+    "name": "青岛银行",
+    "spell": "qdyh"
+  },
+  {
+    "code": "451",
+    "name": "吉林银行",
+    "spell": "jlyh"
+  },
+  {
+    "code": "454",
+    "name": "九江银行",
+    "spell": "jiujyh"
+  },
+  {
+    "code": "455",
+    "name": "日照银行",
+    "spell": "rizyh"
+  },
+  {
+    "code": "456",
+    "name": "鞍山银行",
+    "spell": "ansyh"
+  },
+  {
+    "code": "457",
+    "name": "秦皇岛市商业银行",
+    "spell": "qhdssyyh"
+  },
+  {
+    "code": "458",
+    "name": "青海银行",
+    "spell": "qinghyh"
+  },
+  {
+    "code": "459",
+    "name": "台州银行",
+    "spell": "taizyh"
+  },
+  {
+    "code": "461",
+    "name": "长沙银行",
+    "spell": "changsyh"
+  },
+  {
+    "code": "462",
+    "name": "潍坊银行",
+    "spell": "weifyh"
+  },
+  {
+    "code": "463",
+    "name": "赣州银行",
+    "spell": "ganzyh"
+  },
+  {
+    "code": "464",
+    "name": "泉州银行",
+    "spell": "quanzyh"
+  },
+  {
+    "code": "465",
+    "name": "营口银行",
+    "spell": "yingkyh"
+  },
+  {
+    "code": "466",
+    "name": "富滇银行",
+    "spell": "fudyh"
+  },
+  {
+    "code": "467",
+    "name": "阜新银行",
+    "spell": "fuxyh"
+  },
+  {
+    "code": "470",
+    "name": "嘉兴银行",
+    "spell": "jiaxyh"
+  },
+  {
+    "code": "472",
+    "name": "廊坊银行",
+    "spell": "langfyh"
+  },
+  {
+    "code": "473",
+    "name": "浙江泰隆商业银行",
+    "spell": "zjtlsyyh"
+  },
+  {
+    "code": "474",
+    "name": "内蒙古银行",
+    "spell": "nmgyh"
+  },
+  {
+    "code": "475",
+    "name": "湖州银行",
+    "spell": "huzyh"
+  },
+  {
+    "code": "478",
+    "name": "广西北部湾银行",
+    "spell": "gxbbwyh"
+  },
+  {
+    "code": "479",
+    "name": "包商银行",
+    "spell": "bsyh"
+  },
+  {
+    "code": "481",
+    "name": "威海市商业银行",
+    "spell": "whssyyh"
+  },
+  {
+    "code": "483",
+    "name": "攀枝花市商业银行",
+    "spell": "pzhssyyh"
+  },
+  {
+    "code": "485",
+    "name": "绵阳市商业银行",
+    "spell": "myssyyh"
+  },
+  {
+    "code": "486",
+    "name": "泸州市商业银行",
+    "spell": "lzssyyh"
+  },
+  {
+    "code": "487",
+    "name": "大同市商业银行（大同银行）",
+    "spell": "datyh"
+  },
+  {
+    "code": "488",
+    "name": "三门峡银行（中原银行）",
+    "spell": "zhongyyh"
+  },
+  {
+    "code": "489",
+    "name": "广东南粤银行",
+    "spell": "gdneyh"
+  },
+  {
+    "code": "490",
+    "name": "张家口市商业银行",
+    "spell": "zjkyh"
+  },
+  {
+    "code": "491",
+    "name": "桂林银行",
+    "spell": "guilyh"
+  },
+  {
+    "code": "493",
+    "name": "江苏长江商业银行",
+    "spell": "jscjsyyh"
+  },
+  {
+    "code": "495",
+    "name": "柳州银行",
+    "spell": "liuzyh"
+  },
+  {
+    "code": "496",
+    "name": "南充市商业银行(四川天府银行)",
+    "spell": "sctfyh"
+  },
+  {
+    "code": "497",
+    "name": "莱商银行",
+    "spell": "laisyh"
+  },
+  {
+    "code": "498",
+    "name": "德阳银行(长城华西银行)",
+    "spell": "cchxyh"
+  }
 ]
