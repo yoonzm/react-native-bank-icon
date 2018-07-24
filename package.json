@@ -1,0 +1,24 @@
+{
+  "name": "react-native-bank-icon",
+  "version": "1.0.0",
+  "description": "react-native-bank-icon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yoonzm/react-native-bank-icon.git"
+  },
+  "keywords": [
+    "bank-icon",
+    "react-native",
+    "bank"
+  ],
+  "author": "yoonzm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yoonzm/react-native-bank-icon/issues"
+  },
+  "homepage": "https://github.com/yoonzm/react-native-bank-icon#readme"
+}
